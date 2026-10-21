@@ -1,0 +1,20 @@
+{
+  "name": "dativue",
+  "version": "1.4.0",
+  "description": "Source-linked keyword, search, market, and public social research with Dativue.",
+  "author": {
+    "name": "Tetriz s.r.o.",
+    "email": "team@dativue.com",
+    "url": "https://dativue.com"
+  },
+  "homepage": "https://dativue.com",
+  "license": "UNLICENSED",
+  "keywords": [
+    "keyword-research",
+    "market-research",
+    "social-data",
+    "research",
+    "mcp",
+    "marketing"
+  ]
+}

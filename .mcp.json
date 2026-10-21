@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dativue": {
+      "type": "http",
+      "url": "https://dativue.com/mcp"
+    }
+  }
+}
